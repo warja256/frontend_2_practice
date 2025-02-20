@@ -1,10 +1,23 @@
+
+* {
+    font-family: "Mulish", serif;
+}
+
+
+html, body {
+    height: 100%; 
+    margin: 100px 100px;
+    justify-content: center;
+    align-items: center; 
+
+}
+
 .title {
     font-size: 24px;
+    padding-bottom: 30px;
 }
 
 .text {
-
-    
     .text1 {
         font-size: 16px;
     }
@@ -17,10 +30,15 @@
 .button_hi {
     display: flex;
     justify-content: center;
+    padding-top: 30px;
     button {
-        background-color: whitesmoke;
+        height: 60px;
+        width: 200px;
+        font-size: 20px;
+        background-color: pink;
         color: black;
         border: 3px;
+        border-radius: 5px;
     }
     button:hover {
         background-color: green;

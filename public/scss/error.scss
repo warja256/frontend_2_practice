@@ -1,27 +1,37 @@
+* {
+    font-family: "Mulish", serif;
+}
+
+html, body {
+    height: 100%; 
+    margin: 0;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+}
 
 .error {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 100%;
     justify-content: center;
     text-align: center;
 
     .error-code {
         display: flex;
         justify-content: center;
+        
         .error-code-text {
-            font-size: 24px;
+            font-size: 30px;
         }
     }
-    
+
     .error-message {
         display: flex;
         justify-content: center;
+        
         .error-message-text {
             font-size: 20px;
         }
     }
-
 }
-
