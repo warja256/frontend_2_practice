@@ -7,15 +7,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/warja256/--------_4_-_-.git"
+    "url": "git+https://github.com/warja256/frontend_4_practice.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/warja256/--------_4_-_-/issues"
+    "url": "https://github.com/warja256/frontend_4_practice/issues"
   },
-  "homepage": "https://github.com/warja256/--------_4_-_-#readme",
+  "homepage": "https://github.com/warja256/frontend_4_practice#readme",
   "description": "",
   "dependencies": {
     "express": "^4.21.2"
