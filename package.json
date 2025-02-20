@@ -1,0 +1,23 @@
+{
+  "name": "frontend_4_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warja256/--------_4_-_-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warja256/--------_4_-_-/issues"
+  },
+  "homepage": "https://github.com/warja256/--------_4_-_-#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

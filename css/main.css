@@ -7,4 +7,19 @@
 }
 .text .text2 {
   font-size: 16px;
+}
+
+.button_hi {
+  display: flex;
+  justify-content: center;
+}
+.button_hi button {
+  background-color: whitesmoke;
+  color: black;
+  border: 3px;
+}
+.button_hi button:hover {
+  background-color: green;
+  color: azure;
+  border: none;
 }/*# sourceMappingURL=main.css.map */
